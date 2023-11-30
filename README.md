@@ -22,11 +22,11 @@ You'll want to do the following:
 1. Create a new folder on your computer in a convenient location other than your desktop.  You'll be typing this path in the command prompt window, so make it easy, like C:\Miniconda
 2. Visit https://docs.conda.io/projects/miniconda/en/latest/miniconda-other-installer-links.html and download an installer.  Python 3.9 is a good choice, but you can try any version available.
 3. Run the Miniconda installer.  **Do not just accept the defaults!**  If you are knowledgeable, you can make these choices as you see fit, but if you don't know, do the following:
-   a. It is recommended to install for **All Users**
-   b. For the **Destination Folder** use the folder you created instead of the default suggestion
-   c. Do **NOT** Add Miniconda 3 to your PATH environment variable
-   d. Do **NOT** Register Miniconda 3 as your default Python
-   e. If you wish to Clear the Package cache, go ahead - it shouldn't cause issues
+   - It is recommended to install for **All Users**
+   - For the **Destination Folder** use the folder you created instead of the default suggestion
+   - Do **NOT** Add Miniconda 3 to your PATH environment variable
+   - Do **NOT** Register Miniconda 3 as your default Python
+   - If you wish to Clear the Package cache, go ahead - it shouldn't cause issues
 #### Install Libraries
 Perform the following:
 1. Open a command prompt window (If you run into permission problems installing packages, run cmd as administrator)
