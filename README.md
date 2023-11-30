@@ -2,7 +2,7 @@
 Jupyter Notebooks for processing curve data for use in producing curves for digital negative printing
 
 ## Introduction
-Making digital negatives for alternative process photography is a time and labor intensive process.  Several methods have been implemented over the years, and one of the most prominent is [Easy Digital Negatives](#http://www.easydigitalnegatives.com/)  This site allows you to upload scans of printed step charts, and it will yield correction curves for whatever process you are working with.  
+Making digital negatives for alternative process photography is a time and labor intensive process.  Several methods have been implemented over the years, and one of the most prominent is [Easy Digital Negatives](http://www.easydigitalnegatives.com/)  This site allows you to upload scans of printed step charts, and it will yield correction curves for whatever process you are working with.  
 
 One problem though, is that Easy Digital Negatives can generate curves that are jaggy and low-detail, and smoothing them out manually is not an easy process.  Furthermore, using an iterative process to refine the curve shape with successive tests can be done, but again may generate some severe artifacts due to the jaggy, low-detail curves.  
 
