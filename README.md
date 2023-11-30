@@ -19,7 +19,7 @@ You will need to perform the following:
 3. [Copy Jupyter notebook .ipynb files to folder of your choosing](https://github.com/MP120TC/Alt_Process_Jupyter_Notebooks/tree/main?fbclid=IwAR2EDq2OzVhtLUIVt2Et8zPfzHBOJfsW4RC-Pgjt403yz0RdhxBBkuOA2Hc#copy-jupyter-notebook-ipynb-files-to-folder-of-your-choosing)
 #### Install Miniconda
 You'll want to do the following:
-1. Create a new folder on your computer in a convenient location other than your desktop.  You'll be typing this path in the command prompt window, so make it easy, like C:\Miniconda
+1. Create a new folder on your computer **in a convenient location other than your desktop**.  You'll be typing this path in the command prompt window, so make it easy, like **C:\Miniconda**
 2. Visit https://docs.conda.io/projects/miniconda/en/latest/miniconda-other-installer-links.html and download an installer.  Python 3.9 is a good choice, but you can try any version available.
 3. Run the Miniconda installer.  **Do not just accept the defaults!**  If you are knowledgeable, you can make these choices as you see fit, but if you don't know, do the following:
    - It is recommended to install for **All Users**
