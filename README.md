@@ -14,9 +14,9 @@ The Jupyter Notebooks contained here are easy to use, but will require you to do
 This Readme was written describing the procedures needed to get Jupyter Notebook running on a **Windows OS** system.  The Python code is operating system agnostic, so you can run it on any OS you wish, but you'll need to figure out the steps to install and run Jupyter Notebook yourself if you're not using Windows.
 ## Installation instructions
 You will need to perform the following:
-1. Install Miniconda
-2. Install libraries
-3. Copy Jupyter notebook .ipynb files to folder of your choosing
+1. [Install Miniconda](https://github.com/MP120TC/Alt_Process_Jupyter_Notebooks/tree/main#install-miniconda)
+2. [Install libraries](https://github.com/MP120TC/Alt_Process_Jupyter_Notebooks/tree/main#install-libraries)
+3. [Copy Jupyter notebook .ipynb files to folder of your choosing](https://github.com/MP120TC/Alt_Process_Jupyter_Notebooks/tree/main?fbclid=IwAR2EDq2OzVhtLUIVt2Et8zPfzHBOJfsW4RC-Pgjt403yz0RdhxBBkuOA2Hc#copy-jupyter-notebook-ipynb-files-to-folder-of-your-choosing)
 #### Install Miniconda
 You'll want to do the following:
 1. Create a new folder on your computer in a convenient location other than your desktop.  You'll be typing this path in the command prompt window, so make it easy, like C:\Miniconda
